@@ -16,3 +16,10 @@ In SQL*Plus:
 - Run CarRental.java
 - When the Oracle login pop-up appears, input your Oracle username and password then hit 'Log In'
 - Navigate UI using the instructions that appear. 
+
+Sample Date and Branch for generating daily reports:
+(The following dates and branch names can be used when generating each of the following reports)
+- Daily Rentals: date = '2019-05-01'
+- Daily Rentals for Branch: city = 'Richmond', location = 'YVR', date = '2019-06-25'
+- Daily Returns: date = '2019-04-10'
+- Daily Returns for Branch: city = Richmond', location = 'YVR', date = '2019-06-28'
